@@ -1,0 +1,28 @@
+header{
+    background-color: #FFF9F4;
+}
+.header-img{
+    max-width:407px;
+    max-height:407px;
+}
+.header-h1{
+    color:#FA804C;
+}
+.header-h1-change{
+    color:#363958;
+}
+.header-text-box{
+    max-width:357px;
+    max-height:304;
+}
+.logo-png{
+    width: 291px; 
+    height:40px;
+}
+
+@media screen and (max-width: 576px) {
+    .logo-png{
+        width:192px;
+        height:26px;
+    }
+}
